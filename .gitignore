@@ -1,0 +1,13 @@
+/target/
+.classpath
+.project
+**/.settings
+.pmd
+.springBeans
+
+#IDEA
+*.iml
+/.idea
+.DS_Store
+/.apt_generated/
+*.jks
